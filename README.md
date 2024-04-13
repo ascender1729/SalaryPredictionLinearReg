@@ -76,7 +76,7 @@ Contributions to enhance the analysis or improve the model are welcome. Please f
 
 ## License
 
-This project is open-sourced under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 
 ## Contact
